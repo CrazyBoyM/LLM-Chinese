@@ -3,7 +3,7 @@
 
 
 ## gemma2 中文版
-shareAI-DPO对齐中文版
+shareAI-DPO对齐中文版 （教程撰写中...)
 - 感谢opencsg的8 * A800 训练机器赞助
 - 9b中文对话版本：https://opencsg.com/models/shareAI/gemma-2-9b-it-Chinese-DPO
 - 2b中文对话版本：https://opencsg.com/models/shareAI/gemma-2-2b-it-Chinese-DPO
